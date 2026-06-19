@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kant343.github.io/cnwebs-holdemgame-com/sitemap.xml
